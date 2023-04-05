@@ -1,12 +1,13 @@
 # PyBer-Mat
 ## Overview of the Project
-The ride sharing company *Pyber* its looking for support analyzing the ride-sharing data collected by the app. Understanting the use current clients make of the *Pyber* would greatly facilitate adapt to the differences and characteristics of the users. Condensing and visualizing this historical data in a report will the company evaluate their current status and help make desicions for the future.
+The ride sharing company *Pyber* its looking for support analyzing historical data to better understand user types and ride patterns. Understanting the use current clients make of the *Pyber* would greatly facilitate adapt to the differences and characteristics of the users. Condensing and visualizing this historical data in a report will provide the company evaluate their current status and help make desicions for the future.
 
 ### Purpose
 Summaryze and evaluate the data in order to make business recommendations to *Pyber* based on the data key insights. For this analysis the focus will be in differences between users from rural, suburban and urban communities.
 
 # Results
 The data reveals great disparities when the data is grouped by the city type, this will be summarized in the table below:
+
 ![Summary_table](https://github.com/Li11iana/PyBer-Mat/blob/main/Resources/Summary.png)
 
 * Total Rides
